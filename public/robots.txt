@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dj-barry-cce33087.zappy5.app/sitemap.xml
