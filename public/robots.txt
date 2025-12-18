@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-cce33087-8529-41c1-9cff.onrender.com/sitemap.xml
+Sitemap: https://dj-barry.zappy5.app/sitemap.xml
